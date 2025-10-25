@@ -1,5 +1,5 @@
-# Hey there, Welcome to Shruti's Github Page 👩🏻‍🚀
-<br>I'm a third year software engineering student focused on building real-world projects all while constantly learning and sharpening my skills in DSA, AI/ML and Data Science.
+# Hello Dreamer. Welcome to my Page! 👩🏻‍🚀
+<br>I'm a pre-final year software engineering student focused on building real-world projects all while constantly learning and sharpening my skills in DSA, AI/ML and Data Science.
 
 
 ## 🌐 Socials:
