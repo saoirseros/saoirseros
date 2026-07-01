@@ -1,7 +1,7 @@
 <table width="100%">
   <tr>
     <td align="left">
-      <strong>Software Engineer / Creative Developer..</strong> Function first. Identity always
+      <strong>CS Student / Creative Developer.</strong>  Function first. Identity always.
     </td>
     <td align="right">
       <a href="https://www.linkedin.com/in/shruti-yadav-003b932bb">LinkedIn</a> ·
