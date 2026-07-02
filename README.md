@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-I build **full-stack applications, distributed systems, and AI-powered softwares** with an emphasis on clean engineering and creative design.
+I build **full-stack applications, distributed systems, and AI-powered softwares** with an emphasis on clean engineering & creative design.
 
 ▸ **Runner-up** · CodeForge · Built **Campus Connect**, a unified student platform, in an 8-hour Inter-College Hackathon</br>
 ▸ Building **BlueTransfer** · Offline digital payment system using Bluetooth Mesh Networking</br>
