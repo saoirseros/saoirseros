@@ -18,7 +18,7 @@ I build **full-stack applications, distributed systems, and AI-powered softwares
 ▸ Developing an **AI-Driven Conversational Intelligence Platform** · Multi-module NLP system for real-time conversational analysis</br>
 ▸ Strong foundation in **Data Structures & Algorithms** and core **Computer Science**</br>
 
-Currently building **BlueTransfer**, **AI-Driven Conversational Intelligence Platform**, and **Campus Connect**.
+Currently building **BlueTransfer**, **AI-Driven Conversational Intelligence Platform**, and **Campus Connect v2**.
 <br/>
 <p>
   <strong>Tech Stack : </strong>
